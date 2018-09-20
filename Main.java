@@ -4,12 +4,12 @@ public class Main {
 
 	public static void main(String[] args) {
 		Cat myCat = new Cat();
-		myCat.setName("Рысик");
+		myCat.setName("Rysik");
 		myCat.setAge(14);
 		myCat.setColor("Grey");
 		myCat.setEyesColor("Blue");
 		Cat notMineCat = new Cat();
-		notMineCat.setName("Машка");
+		notMineCat.setName("Mashka");
 		notMineCat.setAge(4);
 		notMineCat.setColor("White");
 		notMineCat.setEyesColor("Blue");
